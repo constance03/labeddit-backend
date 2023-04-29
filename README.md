@@ -4,8 +4,8 @@ O Labeddit é uma rede social com o objetivo de promover debates sobre diversos 
 
 Nesse projeto apliquei alguns conceitos importantes, como programação orientada a objetos (POO), arquitetura em camadas, geração de UUID (Universally Unique Identifiers), geração de hashes (proteção de senhas), autenticação e autorização de usuários e roteamento.
 
-## **Front End**
-[Repositório]()
+## **Frontend**
+[Repositório](https://github.com/constance03/labeddit-frontend)
 
 ## **Índice**
 - <a href="#funcionalidades-do-projeto">Funcionalidades do projeto</a>
@@ -39,7 +39,7 @@ Nesse projeto apliquei alguns conceitos importantes, como programação orientad
 [Documentação no Postman](https://documenter.getpostman.com/view/24460792/2s93Jxs2Cs)
 
 ## Deploy
-[Deploy no render]()
+[Deploy no render](https://labeddit-api-bnau.onrender.com)
 
 ## **Como rodar esse projeto?**
 
